@@ -1,0 +1,1 @@
+monaco-editor-core: https://github.com/microsoft/vscode/tree/667e3dd844a5018d0b23b929357b8f81c6548c76
